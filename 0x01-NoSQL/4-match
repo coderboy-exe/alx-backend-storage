@@ -1,0 +1,3 @@
+// liss all documents with a specific pattern
+
+db.school.findOne({"name":"Holberton School"});
